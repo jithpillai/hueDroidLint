@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.block {
+  display: block;
+}
+.tab {
+  text-align: left;
+}
+.brandHue.brandRed {
+  color: red !important;
+}
+
+.brandHue.brandYellow {
+  color: yellow !important;
+}
+
+.brandHue.brandGreen {
+  color: green !important;
+}
+
+.brandHue.brandBlue {
+  color: blue !important;
+}
+
+.brandHue.brandOrange {
+  color: orangered !important;
+}
+
+.brandHue.brandViolet {
+  color: blueviolet !important;
+}
+
+.brandHue.brandCyan {
+  color: darkcyan!important;
+}
